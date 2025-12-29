@@ -1,3 +1,3 @@
 # CodeSoft-Calculator
 
-This is simple Calculator app using HTML.
+This is simple Calculator using HTML. I make this for CodeSoft internship.
